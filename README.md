@@ -16,7 +16,7 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 ## Blocos do Curso | Course Blocks
 
 ### Bloco 1: Unix, Bash e Shell Script 
-- [x] Setup
+- **[x]** Setup
 - [x] Fundamentos do Desenvolvimento Web
 - [x] Introdução - Unix & Shell
 - [x] Unix & Bash - Parte 1
@@ -37,23 +37,23 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 
 ### Bloco 4: Introdução à JavaScript e Lógica de Programação
 - [x] Introdução - JavaScript
-- [ ] JavaScript - Primeiros passos
-- [ ] JavaScript - Array e loop For
-- [ ] JavaScript - Lógica de Programação e Algoritmos
-- [ ] JavaScript - Objetos e funções
-- [ ] Projeto - Playground Functions
+- [x] JavaScript - Primeiros passos
+- [x] JavaScript - Array e loop For
+- [x] JavaScript - Lógica de Programação e Algoritmos
+- [x] JavaScript - Objetos e funções
+- [x] Projeto - Playground Functions
 
 ### Bloco 5: JavaScript: DOM, Eventos e Web Storage
-- [ ] JavaScript - DOM e seletores
-- [ ] JavaScript - Trabalhando com elementos
-- [ ] JavaScript - Eventos
-- [ ] JavaScript - Web Storage
-- [ ] Fundamentos - JavaScript - Projetos
-- [ ] Projeto - Arte com Pixels
-- [ ] Projeto - Lista de tarefas
-- [ ] (Bônus) Projeto - Meme Generator
-- [ ] (Bônus) Projeto - Adivinhe a Cor
-- [ ] (Bônus) Projeto - Carta Misteriosa
+- [x] JavaScript - DOM e seletores
+- [x] JavaScript - Trabalhando com elementos
+- [x] JavaScript - Eventos
+- [x] JavaScript - Web Storage
+- [x] Fundamentos - JavaScript - Projetos
+- [x] Projeto - Arte com Pixels
+- [x] Projeto - Lista de tarefas
+- [x] (Bônus) Projeto - Meme Generator
+- [x] (Bônus) Projeto - Adivinhe a Cor
+- [x] (Bônus) Projeto - Carta Misteriosa
 
 ### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 - [ ] HTML & CSS - Forms
