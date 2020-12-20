@@ -53,22 +53,22 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 [**x**] Projeto - Lista de tarefas  
 [**x**] (Bônus) Projeto - Meme Generator  
 [**x**] (Bônus) Projeto - Adivinhe a Cor  
-[**X**] (Bônus) Projeto - Carta Misteriosa  
+[**x**] (Bônus) Projeto - Carta Misteriosa  
 
 ### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
-- [ ] HTML & CSS - Forms
-- [ ] Bibliotecas JavaScript e Frameworks CSS
-- [ ] Introdução - CSS Flexbox
-- [ ] CSS Flexbox - Parte 1
-- [ ] CSS Flexbox - Parte 2
-- [ ] CSS Responsivo - Mobile First
-- [ ] Projeto - Página inicial do Facebook
+[**x**] HTML & CSS - Forms  
+[**x**] Bibliotecas JavaScript e Frameworks CSS  
+[**x**] Introdução - CSS Flexbox  
+[**x**] CSS Flexbox - Parte 1  
+[**x**] CSS Flexbox - Parte 2  
+[**x**] CSS Responsivo - Mobile First  
+[**x**] Projeto - Página inicial do Facebook  
 
 ### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
-- [ ] JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] JavaScript ES6 - Objects
-- [ ] Testes unitários em JavaScript
-- [ ] Projeto - JavaScript Testes Unitários
+[**x**] JavaScript ES6 - let, const, arrow functions e template literals  
+[**x**] JavaScript ES6 - Objects  
+[**x**] Testes unitários em JavaScript  
+[**x**] Projeto - JavaScript Testes Unitários  
 
 ### Bloco 8: Higher Order Functions do JavaScript ES6
 - [ ] JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
