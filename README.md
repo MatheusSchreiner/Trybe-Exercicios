@@ -51,9 +51,9 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 **[x]** Fundamentos - JavaScript - Projetos
 **[x]** Projeto - Arte com Pixels
 **[x]** Projeto - Lista de tarefas
-**[x]** (Bônus) Projeto - Meme Generator
-- [**x**] (Bônus) Projeto - Adivinhe a Cor
-* [**x**] (Bônus) Projeto - Carta Misteriosa
+* [x] (Bônus) Projeto - Meme Generator
+- [x] (Bônus) Projeto - Adivinhe a Cor
+{c:green}[fa=check-circle /]{/c} (Bônus) Projeto - Carta Misteriosa
 
 ### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 - [ ] HTML & CSS - Forms
