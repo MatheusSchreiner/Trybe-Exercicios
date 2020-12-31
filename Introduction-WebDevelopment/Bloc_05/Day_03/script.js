@@ -189,16 +189,13 @@ Ao clicar novamente no dia com a cor da legenda, a sua cor deverá voltar à con
 
 function changeDayColor() {
   const days = document.querySelector('#days');
-  const colorTask = document.querySelector('.task');
- 
-  if(colorTask.className === 'task-selected'){
-    days.addEventListener('click', function(event) {
-      if (event.target.style.color === 'blue') {
-        event.target.style.color = 'rgb(119,119,119)';
-      } else {
-        event.target.style.color = 'blue';
-        // event.target.style.color = colorTask.style.backgroundColor;
+  
+  days.addEventListener('click', function(event) {
+    const colorTask = document.querySelector('.task-selected').style.backgroundColor;
+    if (event.target.style.color === 'blue') {
+      event.target.style.color = 'rgb(119,119,119)';
+    } else {
+        event.target.style.color = colorTask;
       }
-    })
-  }
+  })
 }
