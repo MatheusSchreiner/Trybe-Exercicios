@@ -163,6 +163,7 @@ function colorTaskLegend(color) {
   const divTask = document.querySelector('.my-tasks');
 
   colorTask.style.backgroundColor = color;
+  colorTask.className = 'task';
   divTask.appendChild(colorTask);
 }
 
@@ -187,18 +188,17 @@ function selectTask() {
 Ao clicar novamente no dia com a cor da legenda, a sua cor deverá voltar à configuração inicial rgb(119,119,119) .*/
 
 function changeDayColor() {
-   const days = document.querySelectorAll('.day');
-  
-  for (let i = 0; i < days.length; i += 1) {
-    days[i].addEventListener('click', clickMouse)   
-  }
-}
-
-function clickMouse(event) {
-  const colorTask = document.querySelector('.task-selected').style.backgroundColor;
-  if (event.target.style.color === 'blue') {
-    event.target.style.color = 'rgb(119,119,119)';
-  } else {
-    event.target.style.color = colorTask;
+  const days = document.querySelector('#days');
+  const colorTask = document.querySelector('.task');
+ 
+  if(colorTask.className === 'task-selected'){
+    days.addEventListener('click', function(event) {
+      if (event.target.style.color === 'blue') {
+        event.target.style.color = 'rgb(119,119,119)';
+      } else {
+        event.target.style.color = 'blue';
+        // event.target.style.color = colorTask.style.backgroundColor;
+      }
+    })
   }
 }
