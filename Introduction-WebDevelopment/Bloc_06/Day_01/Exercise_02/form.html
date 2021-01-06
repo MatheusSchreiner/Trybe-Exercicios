@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+<body>
+  <form action="" method="GET">
+    <fieldset>
+      <legend>Insira seus dados</legend>
+      <label for="name">Nome:</label>
+      <input id="name" name="user_name" type="text" required maxlength="40" placeholder="Digite o seu nome" autocomplete="off">
+      <label for="email">E-mail:</label>
+      <input id="email" name="email" type="text" required maxlength="50" placeholder="Digite o seu e-mail" autocomplete="off">
+      <label for="cpf">CPF:</label>
+      <input id="cpf" name="cpf" type="text" required maxlength="11" placeholder="Digite o seu CPF" autocomplete="off">
+      <br>
+      <label for="address">Endereço:</label>
+      <input id="address" name="address" type="text" required maxlength="200" placeholder="Digite o seu endereço" autocomplete="off">
+      <label for="city">Cidade:</label>
+      <input id="city" name="city" type="text" required maxlength="28" placeholder="Digite a sua cidade" autocomplete="off">
+      <br>
+      <label for="state">Selecione o seu estado:</label>
+      <select id="state" name="state" required></select>
+      <br>
+      <label for="habitation-home">Casa</label>
+      <input id="habitation-home" name="habitation" type="radio" required>
+      <label for="habitation-apart">Apartamento</label>
+      <input id="habitation-apart" name="habitation" type="radio" required>
+    </fieldset>
+    <fieldset>
+      <label name="resume">Descreva um breve resumo do seu cúrriculo</label>
+      <br>
+      <textarea id="resume" name="resume" required cols="50" rows="10" maxlength="1000"></textarea>
+      <br>
+      <label for="office">Digite o seu cargo:</label>
+      <input id="office" name="office" type="text" required maxlength="40">
+      <br>
+      <label for="office-description">Descreva o você realiza no seu cargo</label>
+      <br>
+      <textarea id="office-description" name="office-description" type="text" required cols="50" rows="5" maxlength="200"></textarea>
+      <br>
+      <label>Data de início</label>
+      <input type="number" min="0" max="31">
+      <input type="number" min="0" max="12">
+      <input type="number" min="1900" max="2021">
+      <button type="submit">Enviar</button>
+    </fieldset>
+  </form>
+  <script src="script.js"></script>
+</body>
+</html>

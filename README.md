@@ -13,7 +13,6 @@ This repository is intended for exercises performed in [Trybe](https://www.betry
 The course consists of more than 1,500 hours divided into 39 blocks that cover comprehensive contents in fundamentals of web development, front-end development, back-end development and computer science. Below you can find their descriptions and check my current progress through them. :rocket:
 
 ---
-<br>
 
 ## Introdução - Desenvolvimento Web
 
@@ -89,8 +88,7 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 - [ ] Jest - Testes Assíncronos
 - [ ] Jest - Simulando comportamentos
 - [ ] Projeto - Jest Assíncrono e Mocking
-
-<br>
+---
 
 ## Desenvolvimento Front-end
 
@@ -140,8 +138,7 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 
 ### Bloco 19: Projeto App de Receitas
 - [ ] Projeto - App de Receitas
-
-<br>
+---
 
 ## Desenvolvimento Back-end
 
@@ -226,8 +223,7 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 
 ### Bloco 33: Projeto Trybeer II
 - [ ] Projeto - Trybeer v2
-
-<br>
+---
 
 ## Ciência da Computação
 
