@@ -13,3 +13,12 @@ function selectState() {
 }
 
 selectState();
+
+let cpf = document.querySelector("#cpf");
+
+cpf.addEventListener("blur", function(){
+   if(cpf.value) cpf.value = cpf.value.match(/.{1,3}/g).join(".").replace(/\.(?=[^.]*$)/,"-");
+});
+
+// document.querySelector('input[type="radio"]:checked');
+// com este codigó ele busca exatamente qual o item que está selecionado no input do tipo radio
