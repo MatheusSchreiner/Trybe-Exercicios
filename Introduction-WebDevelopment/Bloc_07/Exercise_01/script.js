@@ -1,4 +1,4 @@
- //Questão 1
+ // ----------------------------Questão 1------------------------
  
  const testingScope = escopo => { 
   if (escopo === true) { 
@@ -24,7 +24,7 @@ console.log(testingScopeLet(true));
 
 
 
-//Questão 2
+// -------------------------Questão 2-------------------------
 
 
 const oddsAndEvens = [13, 3, 4, 10, 7, 2];
