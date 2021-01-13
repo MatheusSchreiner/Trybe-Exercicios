@@ -99,10 +99,12 @@ function buildSkillsPhrase (paramOne) {
 
     Minhas cinco principais habilidades são:`
 
-    array.forEach((skill, index) =>
-    result = `${result}
-
+    array.forEach((skill) => result = `${result}
+    
     - ${skill}`)
+
+// quando mais espaço eu colocar entre o ${result} e - ${skill} mais linha ele irá aumentar, faça o teste e aumente e diminua o espaço 
+// o template literal ($) ele entende cada pulo de linha, como uma linha mesmo que tem que pular em um texto, bacana ne.
 
     return result
 }
