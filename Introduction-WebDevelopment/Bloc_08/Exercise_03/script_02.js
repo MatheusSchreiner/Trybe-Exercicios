@@ -67,12 +67,13 @@ const books = [
 
 function allNames() {
   // escreva seu código aqui
-  const concat = (valueInitial, arrayValues, index, arrayComplet) => {
+  // Este concatNames não confundir com o método concat(), lembre-se os métodos precisam se ligar com as variaveis através de ponto igual o método reduce ali embaixo books.reduce(), fique esperto, por isso alterei o nome da variavel para concatNames, ela na vdd é só uma variavel que está armazenando uma função dentro dela.
+  const concatNames = (valueInitial, arrayValues, index, arrayComplet) => {
     if (index < arrayComplet.length - 1) 
     return `${valueInitial} ${arrayValues.author.name},`;
     return `${valueInitial} ${arrayValues.author.name}.`;
   }
-  return books.reduce(concat, 'Nomes:');
+  return books.reduce(concatNames, 'Nomes:');
 }
 
 console.log(allNames());
