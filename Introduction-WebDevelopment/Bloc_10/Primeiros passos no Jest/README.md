@@ -1,0 +1,7 @@
+## Descrição das Atividades
+
+### 1. A função sum(a, b) retorna a soma do parâmetro a com o b; Teste se o retorno de sum(4, 5) é 9; Teste se o retorno de sum(0, 0) é 0; Teste se a função sum lança um erro quando os parâmetros são 4 e "5" (string 5); Teste se a mensagem de erro é "parameters must be numbers" quando realizar a chamada sum(4, "5").
+
+### 2. Para as funções encode e decode crie os seguintes testes: Teste se encode e decode são funções; Para a função encode teste se as vogais a, e, i, o, u são convertidas em 1, 2, 3, 4 e 5, respectivamente; Para a função decode teste se os números 1, 2, 3, 4 e 5 são convertido nas vogais a, e, i, o, u , respectivamente; Teste se as demais letras/números não são convertidos para cada caso; Teste se a string que é retornada pelas funções têm o mesmo número de caracteres que a string passada como parâmetro.
+
+### 3. Considere os dados abaixo. Você deve criar uma função que receba dois parâmetros: o id do funcionário e a informação disponível sobre ele ( firstName , lastName , specialities ). Você também deverá criar os testes para essa função. Sua função deverá então retornar os resultados da busca pelo id para aquele funcionário e a informação consultada. Caso o id não conste no quadro de funcionários, sua função deve retornar o erro ID não identificada . Se a informação que se quer acessar não existir, a função deve retornar o erro Indisponível.
