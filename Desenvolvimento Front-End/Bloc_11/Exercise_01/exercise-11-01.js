@@ -1,6 +1,6 @@
 import React from 'react';
-import '../../style.css';
-import pokemons from '../../pokemons';
+import './style.css';
+import pokemons from './pokemons';
 
 class Exercise1101 extends React.Component {
   render() {
