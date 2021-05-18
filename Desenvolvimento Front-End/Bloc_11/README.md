@@ -1,6 +1,6 @@
 ## Descrição da Atividade
 
-### Rode no terminal o comando 'npx create-react-app app', após a instalação coloque a pasta Bloc_11 dentro da pasta 'src', porque o React apenas Renderiza os arquivos que estão dentro desta pasta. PS: lembre-se de chamar o seu arquivo a classe exportada do seu arquivo 'exercise-11-01.js' dentro do arquivo App.js criado pelo React.
+### Rode no terminal o comando 'npx create-react-app app' dentro da pasta 'Bloc_11', após a instalação coloque a pasta 'Exercise_01' dentro da pasta 'src', porque o React apenas Renderiza os arquivos que estão apenas dentro desta pasta. PS: lembre-se de chamar o seu arquivo a classe exportada do seu arquivo 'exercise-11-01.js' dentro do arquivo App.js criado pelo React.
 
 ### 1. Você vai implementar de forma simplificada uma Pokedex!! Para os que não estão familiarizados com o universo Pokemon , a Pokedex é uma enciclopédia de todos os pokemons na natureza. Para o seu caso, a sua aplicação precisa mostrar todos os pokemons presentes no arquivo pokemons.js na pasta Exercises. Você pode usar a imaginação para estilizar a sua aplicação. Entretanto, é obrigatório que você implemente pelo menos estes dois componentes:
 
