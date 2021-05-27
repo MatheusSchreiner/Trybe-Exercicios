@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+.vscode
 
 # testing
 /coverage
@@ -29,10 +30,5 @@ images/change-base.png
 images/example-pr-fork.png
 images/example-pr.png
 src/logo.svg
-src/serviceWorker.js
-src/setupTests.js
-src/App.css
-src/App.test.js
-src/index.css
-src/index.js
+
 

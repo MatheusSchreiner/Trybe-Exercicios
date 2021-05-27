@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { BrowserRouter, Link, Route, Switch } from 'react-router-dom';
 
-import Home from './components/Home';
-import About from './components/About';
-import Users from './components/Users';
+import Home from './Home';
+import About from './About';
+import Users from './Users';
 import StrictAccess from './StrictAccess';
 
 class App extends Component {
