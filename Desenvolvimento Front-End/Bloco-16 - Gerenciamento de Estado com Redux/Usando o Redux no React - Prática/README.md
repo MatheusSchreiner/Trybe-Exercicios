@@ -9,3 +9,9 @@
   * A página de Clientes cadastrados deverá listar todos os clientes. Caso não haja cliente, a mensagem "Nenhum cliente cadastrado" deve aparecer na tela, juntamente com um botão para ir à pagina de cadastro. Esse botão deve permanecer na tela mesmo caso hajam clientes.
   * A página de cadastro deve conter 3 inputs, para pegar 3 dados do cliente: nome, idade e email. Um botão deve gerar o cadastro. Deve haver também na página um botão que leve o usuário para a página de Clientes cadastrados .
   * Estados que não necessitem navegar para outros componentes, podem ser guardados internamente. Todos os outros devem ser trafegados via Redux.
+
+### Bonus
+
+### Você irá implementar funcionalidades ao código do exercício 1.
+  * Na página de clientes cadastrados, crie um botão que ordene os clientes em ordem alfabética a partir do campo nome . Caso o botão seja clicado novamente, a ordenação original deve ser mostrada.
+  * Cada cadastro deve ser acompanhado de um botão com o texto X . Caso o botão seja clicado, o cadastro deve ser excluído.
