@@ -42,15 +42,15 @@ db.transactions.aggregate([
 ~~~
 db.transactions.aggregate([
   {
-    $match: {
-      value: { $gt: 1000 },
-    },
-  },
-  {
     $group: {
       _id: '$bank',
       total: { $sum: '$value' },
     }
+  },
+    {
+    $match: {
+      total: { $gt: 1000 },
+    },
   }
 ]);
 ~~~
