@@ -8,9 +8,6 @@
 <br>
 
 ### 3. Basta usar o GUI do Mysql Workbench para fazer isso.
-~~~
-
-~~~
 <br>
 <br>
 
