@@ -168,7 +168,7 @@ db.vendas.aggregate([
   },
   {
     $sort: {
-      valor: -1,
+      "_id.valor": -1,
     },
   },
   {
