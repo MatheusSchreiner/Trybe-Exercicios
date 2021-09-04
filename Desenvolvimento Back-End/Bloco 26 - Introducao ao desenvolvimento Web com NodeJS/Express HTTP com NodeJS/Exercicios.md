@@ -2,7 +2,7 @@
 ~~~
 // Crie e entre em uma pasta e digite no terminal os seguitnes comandos para iniciar as atividades
 npm init -y
-npm i express
+npm i express express-rescue
 npm i -D nodemon
 
 // Crie um arquivo index e coloque o seguinte código:
@@ -60,6 +60,8 @@ app.put('/user', (req, res) => {
 
 ### 5. 
 ~~~
+// Crie outro arquivo
+
 const fs = require('fs/promises');
 
 function getSimpsons () {
