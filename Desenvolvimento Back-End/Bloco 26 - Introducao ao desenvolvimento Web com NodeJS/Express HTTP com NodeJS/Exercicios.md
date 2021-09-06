@@ -132,6 +132,74 @@ app.post(
     res.status(204).end();
   })
 );
+~~~
+<br>
 
+### 9.
+~~~
+// authMiddleware.js
+
+module.exports = (req, res, next) => {
+  const { authorization } = req.headers;
+
+  if (!authorization || authorization.length !== 16) {
+    return res.status(401).json({ message: 'Token inválido!' });
+  }
+
+  return next();
+}
+
+
+// index.js
+
+const express = require('express');
+const authMiddleware = require('./authMiddleware');
+const app = express();
+
+app.use(express.json());
+app.use(authMiddleware);
+
+/* ... */
+
+app.use(function (err, req, res, next) {
+  res.status(500).send(`Algo deu errado! Mensagem: ${err.message}`);
+});
+
+app.listen(3000, () => console.log('ouvindo na porta 3000!'));
+~~~
+<br>
+
+### 10.
+~~~
+// generateToken.js
+
+const crypto = require('crypto');
+
+function generateToken() {
+  return crypto.randomBytes(8).toString('hex');
+}
+
+module.exports = generateToken;
+
+
+// index.js
+
+/* ... */
+const crypto = require('crypto');
+/* ... */
+
+app.post('/signup', (req, res) => {
+  const { email, passowrd, firstName, phone } = req.body;
+
+  if ([email, password, firstName, phone].includes(undefined)) {
+    return res.status(401).json({ message: 'missing fields' });
+  }
+
+  const token = crypto.randomBytes(8).toString('hex');
+
+  res.status(200).json({ token });
+})
+
+/* ... */
 ~~~
 <br>
