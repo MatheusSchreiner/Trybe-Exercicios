@@ -72,194 +72,191 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 [**x**] Projeto - JavaScript Testes Unitários  
 
 ### Bloco 8: Higher Order Functions do JavaScript ES6
-- [ ] JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] JavaScript ES6 - Higher Order Functions - reduce
-- [ ] JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] Projeto - Zoo functions
+[**x**] JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+[**x**] JavaScript ES6 - Higher Order Functions - map e filter
+[**x**] JavaScript ES6 - Higher Order Functions - reduce
+[**x**] JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+[**x**] Projeto - Zoo functions
 
 ### Bloco 9: JavaScript Assíncrono e Promises
-- [ ] JavaScript Assíncrono e Callbacks
-- [ ] JavaScript Promises
-- [ ] Projeto - Carrinho de Compras
+[**x**] JavaScript Assíncrono e Callbacks
+[**x**] JavaScript Promises
+[**x**] Projeto - Carrinho de Compras
 
 ### Bloco 10: Testes automatizados com Jest
-- [ ] Primeiros passos no Jest
-- [ ] Jest - Testes Assíncronos
-- [ ] Jest - Simulando comportamentos
-- [ ] Projeto - Jest Assíncrono e Mocking
+[**x**] Primeiros passos no Jest
+[**x**] Jest - Testes Assíncronos
+[**x**] Jest - Simulando comportamentos
+[**x**] Projeto - Jest Assíncrono e Mocking
 ---
 
 ## Desenvolvimento Front-end
 
 ### Bloco 11: Introdução à React
-- [ ] Introdução - Front-end
-- [ ] Introdução - React
-- [ ] 'Hello, world!' no React!
-- [ ] Componentes React
-- [ ] Projeto - Movie Cards Library
+[**x**] Introdução - Front-end
+[**x**] Introdução - React
+[**x**] 'Hello, world!' no React!
+[**x**] Componentes React
+[**x**] Projeto - Movie Cards Library
 
 ### Bloco 12: Componentes com Estado, Eventos e Formulários com React
-- [ ] Componentes com estado e eventos
-- [ ] Formulários no React
-- [ ] Projeto - Movie Cards Library Stateful
+[**x**] Componentes com estado e eventos
+[**x**] Formulários no React
+[**x**] Projeto - Movie Cards Library Stateful
 
 ### Bloco 13: Ciclo de Vida de Componentes e React Router
-- [ ] Ciclo de vida de componentes
-- [ ] React Router
-- [ ] Projeto - Movie Cards Library CRUD
+[**x**] Ciclo de vida de componentes
+[**x**] React Router
+[**x**] Projeto - Movie Cards Library CRUD
 
 ### Bloco 14: Metodologias Ágeis
-- [ ] Metodologias Ágeis
-- [ ] Projeto - Frontend Online Store
+[**x**] Metodologias Ágeis
+[**x**] Projeto - Frontend Online Store
 
 ### Bloco 15: Testes automatizados com React Testing Library
-- [ ] RTL - Primeiros passos
-- [ ] RTL - Mocks e Inputs
-- [ ] RTL - Testando React Router
-- [ ] Projeto - Testes em React
+[**x**] RTL - Primeiros passos
+[**x**] RTL - Mocks e Inputs
+[**x**] RTL - Testando React Router
+[**x**] Projeto - Testes em React
 
 ### Bloco 16: Gerenciamento de estado com Redux
-- [ ] Introdução ao Redux - O estado global da aplicação
-- [ ] Usando o Redux no React
-- [ ] Usando o Redux no React - Prática
-- [ ] Usando o Redux no React - Actions Assíncronas
-- [ ] Testes em React-Redux
-- [ ] Projeto - Trybe Wallet
+[**x**] Introdução ao Redux - O estado global da aplicação
+[**x**] Usando o Redux no React
+[**x**] Usando o Redux no React - Prática
+[**x**] Usando o Redux no React - Actions Assíncronas
+[**x**] Testes em React-Redux
+[**x**] Projeto - Trybe Wallet
 
 ### Bloco 17: Projeto Jogo de Trivia
-- [ ] Projeto - Jogo de Trivia
+[**x**] Projeto - Jogo de Trivia
 
 ### Bloco 18: Context API e React Hooks
-- [ ] Context API do React
-- [ ] React Hooks - useState e useContext
-- [ ] React Hooks - useEffect e Hooks customizados
-- [ ] Projeto - StarWars Datatable com Context API e Hooks
+[**x**] Context API do React
+[**x**] React Hooks - useState e useContext
+[**x**] React Hooks - useEffect e Hooks customizados
+[**x**] Projeto - StarWars Datatable com Context API e Hooks
 
 ### Bloco 19: Projeto App de Receitas
-- [ ] Projeto - App de Receitas
+[**x**] Projeto - App de Receitas
 ---
 
 ## Desenvolvimento Back-end
 
 ### Bloco 20: Introdução à SQL
-- [ ] Introdução - Back-end
-- [ ] Introdução - Bancos de dados relacionais
-- [ ] Banco de dados SQL
-- [ ] Encontrando dados em um banco de dados
-- [ ] Filtrando dados de forma específica
-- [ ] Manipulando tabelas
-- [ ] Projeto - All For One
+[**x**] Introdução - Back-end
+[**x**] Introdução - Bancos de dados relacionais
+[**x**] Banco de dados SQL
+[**x**] Encontrando dados em um banco de dados
+[**x**] Filtrando dados de forma específica
+[**x**] Manipulando tabelas
+[**x**] Projeto - All For One
 
 ### Bloco 21: Funções SQL, Joins e Subqueries
-- [ ] Funções mais usadas no SQL
-- [ ] Descomplicando JOINs e UNIONs
-- [ ] Stored Routines & Subqueries
-- [ ] Projeto - Vocabulary Booster
+[**x**] Funções mais usadas no SQL
+[**x**] Descomplicando JOINs e UNIONs
+[**x**] Stored Routines & Subqueries
+[**x**] Projeto - Vocabulary Booster
 
 ### Bloco 22: Normalização e Modelagem de Banco de Dados
-- [ ] Transformando ideias em um modelo de banco de dados
-- [ ] Normalização, Formas Normais e Dumps
-- [ ] Transformando ideias em um modelo de banco de dados - Parte 2
-- [ ] Projeto - One For All
+[**x**] Transformando ideias em um modelo de banco de dados
+[**x**] Normalização, Formas Normais e Dumps
+[**x**] Transformando ideias em um modelo de banco de dados - Parte 2
+[**x**] Projeto - One For All
 
 ### Bloco 23: Introdução ao MongoDB
-- [ ] Introdução - NoSQL
-- [ ] MongoDB - Introdução
-- [ ] Filter Operators
-- [ ] Projeto - Data Flights
+[**x**] Introdução - NoSQL
+[**x**] MongoDB - Introdução
+[**x**] Filter Operators
+[**x**] Projeto - Data Flights
 
 ### Bloco 24: MongoDB: Updates Simples e Complexos
-- [ ] Updates Simples
-- [ ] Updates Complexos - Arrays - Parte 1
-- [ ] Updates Complexos - Arrays - Parte 2
-- [ ] Projeto - Commerce
+[**x**] Updates Simples
+[**x**] Updates Complexos - Arrays - Parte 1
+[**x**] Updates Complexos - Arrays - Parte 2
+[**x**] Projeto - Commerce
 
 ### Bloco 25: MongoDB: Aggregation Framework
-- [ ] Aggregation Framework - Parte 1
-- [ ] Aggregation Framework - Parte 2
-- [ ] Projeto - Aggregations
+[**x**] Aggregation Framework - Parte 1
+[**x**] Aggregation Framework - Parte 2
+[**x**] Projeto - Aggregations
 
 ### Bloco 26: Introdução ao desenvolvimento Web com NodeJS
-- [ ] Intro - NodeJS
-- [ ] NodeJS - Introdução
-- [ ] NodeJS - Fluxo Assíncrono
-- [ ] NodeJS - Arquitetura
-- [ ] Express: HTTP com Node.js
-- [ ] Práticando Express
-- [ ] Arquitetura de Software - Introdução ao MVC
-- [ ] Projeto - Cookmaster
+[**x**] Intro - NodeJS
+[**x**] NodeJS - Introdução
+[**x**] NodeJS - Fluxo Assíncrono
+[**x**] NodeJS - Arquitetura
+[**x**] Express: HTTP com Node.js
+[**x**] Práticando Express
+[**x**] Arquitetura de Software - Introdução ao MVC
+[**x**] Projeto - Cookmaster
 
 ### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
-- [ ] Arquitetura de Software - Camada de Serviço
-- [ ] Arquitetura web - Rest e Restful
-- [ ] Projeto - Store Manager
+[**x**] Arquitetura de Software - Camada de Serviço
+[**x**] Arquitetura web - Rest e Restful
+[**x**] Projeto - Store Manager
 
 ### Bloco 28: Autenticação e Upload de Arquivos
-- [ ] NodeJS - JWT - (JSON Web Token)
-- [ ] NodeJS - Upload de arquivos com Multer
-- [ ] Projeto - Cookmaster V2
+[**x**] NodeJS - JWT - (JSON Web Token)
+[**x**] NodeJS - Upload de arquivos com Multer
+[**x**] Projeto - Cookmaster V2
 
 ### Bloco 29: Deployment
-- [ ] Introdução - Deploy
-- [ ] Infraestrutura - Deploy com Heroku
-- [ ] Deploy - Gerenciadores de Processos
-- [ ] Projeto - Stranger Things
+[**x**] Introdução - Deploy
+[**x**] Infraestrutura - Deploy com Heroku
+[**x**] Deploy - Gerenciadores de Processos
+[**x**] Projeto - Stranger Things
 
-### Bloco 30: Projeto Trybeer
-- [ ] Projeto - Trybeer
-
-### Bloco 31: Arquitetura: SOLID e ORM
+### Bloco 30: Arquitetura: SOLID e ORM
 - [ ] Arquitetura - Princípios SOLID
 - [ ] ORM - Interface da aplicação com o banco de dados
 - [ ] ORM - Associations
 - [ ] Boas práticas na escrita de testes
 - [ ] Projeto - API de Blogs
 
-### Bloco 32: Sockets
+### Bloco 31: Sockets
 - [ ] Sockets - TCP/UDP & NET
 - [ ] Sockets - Socket.io
 - [ ] Projeto - Webchat
 
-### Bloco 33: Projeto Trybeer II
-- [ ] Projeto - Trybeer v2
+### Bloco 32: Projeto - App de Delivery
+- [ ] Projeto - App de Delivery
 ---
 
 ## Ciência da Computação
 
-### Bloco 34: Arquitetura de Computadores e Redes
+### Bloco 33: Arquitetura de Computadores e Redes
 - [ ] Introdução - Ciência da Computação
 - [ ] Arquitetura de Computadores
 - [ ] Arquitetura de redes
 - [ ] Redes de computadores, ferramentas e segurança
 - [ ] Projeto - Explorando os protocolos
 
-### Bloco 35: Introdução à Python e Raspagem de Dados da Web
+### Bloco 34: Introdução à Python e Raspagem de Dados da Web
 - [ ] Aprendendo Python
 - [ ] Testes e Exceções
 - [ ] Entrada e Saída de dados
 - [ ] Raspagem de Dados
 - [ ] Projeto - Tech news
 
-### Bloco 36: Programação Orientada a Objetos e Padrões de Projeto
+### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto
 - [ ] Introdução à programação orientada a objetos
 - [ ] Programação orientada a objetos na prática
 - [ ] Padrões de projeto
 - [ ] Projeto - Relatórios de Estoque
 
-### Bloco 37: Algoritmos e Estrutura de Dados
+### Bloco 36: Algoritmos e Estrutura de Dados
 - [ ] Estrutura de Dados I - Arrays
 - [ ] Estrutura de Dados I - Complexidade de Algoritmos
 - [ ] Recursividade e Estratégias para solução de problemas
 - [ ] Algoritmos de ordenação e busca
 - [ ] Projeto - Algoritmos
 
-### Bloco 38: Estrutura de Dados: Hash e Set
+### Bloco 37: Estrutura de Dados: Hash e Set
 - [ ] Estrutura de dados II - Hash maps & Dict
 - [ ] Estrutura de dados II - Set
 - [ ] Projeto - Restaurant Orders
 
-### Bloco 39: Estrutura de Dados: Pilhas, Filas e Listas
+### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas
 - [ ] Estrutura de dados III - Pilhas
 - [ ] Estrutura de dados III - Deque
 - [ ] Estrutura de Dados III - Nó & Listas ligadas
