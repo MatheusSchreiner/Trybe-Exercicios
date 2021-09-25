@@ -139,6 +139,7 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 
 ### Bloco 19: Projeto App de Receitas
 [**x**] Projeto - App de Receitas  
+
 ---
 
 ## Desenvolvimento Back-end
@@ -221,6 +222,7 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 
 ### Bloco 32: Projeto - App de Delivery
 - [ ] Projeto - App de Delivery  
+
 ---
 
 ## Ciência da Computação
