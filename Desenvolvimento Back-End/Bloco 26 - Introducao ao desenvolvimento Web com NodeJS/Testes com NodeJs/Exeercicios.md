@@ -2,12 +2,7 @@
 ~~~
 const sinon = require('sinon');
 const { expect } = require('chai');
-
-function verify(number) {
-  if (number > 0) return 'positivo';
-  if (number < 0) return 'negativo';
-  return 'neutro';
-};
+const verify = require('./verify.js');
 
 describe('Testando a função verify', () => {
   it('Retorna uma string', () => {
@@ -31,7 +26,11 @@ describe('Testando a função verify', () => {
 
 ### 2. 
 ~~~
-
+module.exports = (number) => {
+  if (number > 0) return 'positivo';
+  if (number < 0) return 'negativo';
+  return 'neutro';
+};
 ~~~
 
 ### 3. 
