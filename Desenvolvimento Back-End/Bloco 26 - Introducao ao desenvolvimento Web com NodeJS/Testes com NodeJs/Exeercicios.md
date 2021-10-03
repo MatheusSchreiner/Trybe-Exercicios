@@ -35,7 +35,17 @@ module.exports = (number) => {
 
 ### 3. 
 ~~~
+module.exports = (number) => {
+  if (typeof number !== 'number') return 'o valor deve ser um número';
+  if (number > 0) return 'positivo';
+  if (number < 0) return 'negativo';
+  return 'neutro';
+};
 
+it('o parâmetro passado deve ser do tipo número', () => {
+  const response = verify('teste');
+  expect(response).to.be.equal('o valor deve ser um número');
+});
 ~~~
 
 ### 4. 
