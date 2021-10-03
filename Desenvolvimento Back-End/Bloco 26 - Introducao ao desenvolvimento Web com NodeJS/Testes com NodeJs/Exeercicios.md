@@ -1,6 +1,5 @@
 ### 1. 
 ~~~
-const sinon = require('sinon');
 const { expect } = require('chai');
 const verify = require('./verify.js');
 
@@ -50,6 +49,22 @@ it('o parâmetro passado deve ser do tipo número', () => {
 
 ### 4. 
 ~~~
+const fs = require('fs');
+const { expect } = require('chai');
+
+const escreveArquivo = require('./escreverArquivo');
+
+describe('Executa a função escreverArquivo', () => {
+  it('a resposta é uma string', () => {
+    const resposta = escreveArquivo('arquivo.txt', '#Isso ai');
+    expect(resposta).to.be.a('string');
+  });
+
+  it('a resposta é um ok', () => {
+    const resposta = escreveArquivo('arquivo.txt', '#Isso ai');
+    expect(resposta).to.be.equals('ok');
+  });
+});
 
 ~~~
 
