@@ -209,11 +209,11 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 [**x**] Projeto - Stranger Things  
 
 ### Bloco 30: Arquitetura: SOLID e ORM
-- [ ] Arquitetura - Princípios SOLID  
-- [ ] ORM - Interface da aplicação com o banco de dados  
-- [ ] ORM - Associations  
-- [ ] Boas práticas na escrita de testes  
-- [ ] Projeto - API de Blogs  
+[**x**] Arquitetura - Princípios SOLID  
+[**x**] ORM - Interface da aplicação com o banco de dados  
+[**x**] ORM - Associations  
+[**x**] Boas práticas na escrita de testes  
+[**x**] Projeto - API de Blogs  
 
 ### Bloco 31: Sockets
 - [ ] Sockets - TCP/UDP & NET  
