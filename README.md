@@ -1,4 +1,4 @@
-# <a href="https://www.betrybe.com/" target='_blank'><img src="https://app.betrybe.com/assets/images/trybe-logo.png" alt="Trybe" width=100></a> Repositório de Exercícios  | Exercises Repository
+# Repositório de Exercícios  | Exercises Repository
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Matheus Rubi Schreiner](https://www.linkedin.com/in/matheus-schreiner-7732a61bb/)_ enquanto estudante na [Trybe](https://www.betrybe.com/)
 
