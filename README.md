@@ -218,7 +218,7 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 ### Bloco 31: Sockets
 [**x**] Arquitetura de Software - Camada de View  
 [**x**] Sockets - TCP/UDP & NET  
-[**x**] Sockets - Socket.io  
+[**x**] Sockets - Socket io  
 [**x**] Projeto - Webchat  
 
 ### Bloco 32: Projeto - App de Delivery
