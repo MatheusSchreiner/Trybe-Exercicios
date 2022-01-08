@@ -222,47 +222,45 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 [**x**] Projeto - Webchat  
 
 ### Bloco 32: Projeto - App de Delivery
-- [ ] Projeto - App de Delivery  
+[**x**] Projeto - App de Delivery  
 
 ---
 
 ## Ciência da Computação
 
-### Bloco 33: Arquitetura de Computadores e Redes
-- [ ] Introdução - Ciência da Computação  
-- [ ] Arquitetura de Computadores  
-- [ ] Arquitetura de redes  
-- [ ] Redes de computadores, ferramentas e segurança  
-- [ ] Projeto - Explorando os protocolos  
+### Bloco 33: Introdução à Python
+[**x**] Introdução - Ciência da Computação  
+[**x**] Aprendendo Python  
+[**x**] Entrada e Saída de dados  
+[**x**] Testes  
+[**x**] Projeto - Job Insights  
 
-### Bloco 34: Introdução à Python e Raspagem de Dados da Web
-- [ ] Aprendendo Python  
-- [ ] Testes e Exceções  
-- [ ] Entrada e Saída de dados  
-- [ ] Raspagem de Dados  
-- [ ] Projeto - Tech news  
+### Bloco 34: Programação Orientada a Objetos e Padrões de Projeto
+[**x**] Introdução à programação orientada a objetos  
+[**x**] Herança. Composição e Interface  
+[**x**] Padrões de projeto  
+[**x**] Projeto - Relatórios de Estoque  
 
-### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto
-- [ ] Introdução à programação orientada a objetos  
-- [ ] Programação orientada a objetos na prática  
-- [ ] Padrões de projeto  
-- [ ] Projeto - Relatórios de Estoque  
+### Bloco 35: Redes e Raspagem de Dados
+[**x**] Arquitetura de redes  
+[**x**] Redes de computadores, ferramentas e segurança  
+[**x**] Raspagem de Dados  
+[**x**] Projeto - Tech news  
 
-### Bloco 36: Algoritmos e Estrutura de Dados
-- [ ] Estrutura de Dados I - Arrays  
-- [ ] Estrutura de Dados I - Complexidade de Algoritmos  
+### Bloco 36: Algoritmos
+- [ ] Complexidade de Algoritmos  
 - [ ] Recursividade e Estratégias para solução de problemas  
 - [ ] Algoritmos de ordenação e busca  
 - [ ] Projeto - Algoritmos  
 
-### Bloco 37: Estrutura de Dados: Hash e Set
-- [ ] Estrutura de dados II - Hash maps & Dict  
-- [ ] Estrutura de dados II - Set  
+### Bloco 37: Estrutura de Dados I: Arrays, Hashmaps e Sets
+- [ ] Arquitetura de Computadores  
+- [ ] Arrays  
+- [ ] Hashmap e Dict  
+- [ ] Set  
 - [ ] Projeto - Restaurant Orders  
 
-### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas
-- [ ] Estrutura de dados III - Pilhas  
-- [ ] Estrutura de dados III - Deque  
-- [ ] Estrutura de Dados III - Nó & Listas ligadas  
-- [ ] Estrutura de Dados III - Listas duplamente ligadas  
+### Bloco 38: Estrutura de Dados II: Listas, Filas e Pilhas
+- [ ] Nó e Listas Encadeadas  
+- [ ] Pilhas e Filas  
 - [ ] Projeto - TING - Trybe Is Not Google  
