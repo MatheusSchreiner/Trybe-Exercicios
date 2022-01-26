@@ -248,10 +248,10 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 [**x**] Projeto - Tech news  
 
 ### Bloco 36: Algoritmos
-- [ ] Complexidade de Algoritmos  
-- [ ] Recursividade e Estratégias para solução de problemas  
-- [ ] Algoritmos de ordenação e busca  
-- [ ] Projeto - Algoritmos  
+[**x**] Complexidade de Algoritmos  
+[**x**] Recursividade e Estratégias para solução de problemas  
+[**x**] Algoritmos de ordenação e busca  
+[**x**] Projeto - Algoritmos  
 
 ### Bloco 37: Estrutura de Dados I: Arrays, Hashmaps e Sets
 - [ ] Arquitetura de Computadores  
