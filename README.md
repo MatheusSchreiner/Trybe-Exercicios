@@ -254,13 +254,13 @@ The course consists of more than 1,500 hours divided into 39 blocks that cover c
 [**x**] Projeto - Algoritmos  
 
 ### Bloco 37: Estrutura de Dados I: Arrays, Hashmaps e Sets
-- [ ] Arquitetura de Computadores  
-- [ ] Arrays  
-- [ ] Hashmap e Dict  
-- [ ] Set  
-- [ ] Projeto - Restaurant Orders  
+[**x**] Arquitetura de Computadores  
+[**x**] Arrays  
+[**x**] Hashmap e Dict  
+[**x**] Set  
+[**x**] Projeto - Restaurant Orders  
 
 ### Bloco 38: Estrutura de Dados II: Listas, Filas e Pilhas
-- [ ] Nó e Listas Encadeadas  
-- [ ] Pilhas e Filas  
-- [ ] Projeto - TING - Trybe Is Not Google  
+[**x**] Nó e Listas Encadeadas  
+[**x**] Pilhas e Filas  
+[**x**] Projeto - TING - Trybe Is Not Google  
